@@ -1,5 +1,3 @@
 
 *.class
-bank/.project
-bank/.classpath
-*.java
+*.prefs
